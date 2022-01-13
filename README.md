@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is jjay
 #### be a nice developer :smile:
-<br>
+
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=783CBD"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=783CBD"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=783CBD"/>
