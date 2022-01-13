@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/CSS3-06B6D4?style=flat-square&logo=CSS3&logoColor=783CBD"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=783CBD"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=783CBD"/>
+<br>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=783CBD"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=783CBD"/>
 <img src="https://img.shields.io/badge/Markdown-333333?style=flat-square&logo=Markdown&logoColor=783CBD"/>
