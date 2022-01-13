@@ -1,5 +1,8 @@
+<div align="center">
+
 ### Hi there 👋, my name is jjay
 #### be a nice developer :smile:
+
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=783CBD"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=783CBD"/>
@@ -13,7 +16,10 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=783CBD"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=783CBD"/>
 
+<br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jjay0303)  
 
+
+</div>
 
